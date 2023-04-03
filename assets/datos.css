@@ -1,0 +1,36 @@
+.filtro {
+    width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background-color: #000;*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*background: linear-gradient(#424564, #FFFFFF);*/
+
+}
+
+#datos {
+    width: 90%;
+    font-weight: 500;
+}
+
+body {
+    background: linear-gradient(#424564, #FFFFFF);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bold;
+}
+
+#boton {
+    background-color: #5CCB9A;
+    border-radius: 8px;
+    border-style: none;
+    width: 150px;
+    font-weight: bold;
+}
+
+hr {
+    border: 2px solid #000 !important;
+}
